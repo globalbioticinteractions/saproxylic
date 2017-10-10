@@ -1,0 +1,1 @@
+OID	Name	TaxonomicScopeA	GeographicalScopeA	ObligateFacultativeScopeA	GeographicalAreaA	GenusSpeciesA	RoleA	RoleB	BPrefA	TaxonomicScopeB	GeographicalScopeB	ObligateFacultativeScopeB	GeographicalAreaB	GenusSpeciesB	OptimisticLockField	GCRecord1	SXSearch		0	0							0	0			0	

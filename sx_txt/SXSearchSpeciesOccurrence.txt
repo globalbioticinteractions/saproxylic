@@ -1,0 +1,1 @@
+OID	TaxonomicScope	GeographicalArea	GeographicalScope	ObligateFacultativeScope	GenusSpecies	OptimisticLockField	GCRecord	ObjectType

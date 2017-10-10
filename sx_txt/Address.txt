@@ -1,0 +1,1 @@
+Oid	Street	City	StateProvince	ZipPostal	Country	FullAddress	OptimisticLockField	GCRecord

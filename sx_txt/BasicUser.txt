@@ -1,0 +1,1 @@
+OID	UserName	FullName	IsActive	IsAdministrator	ChangePasswordOnFirstLogon	Password	OptimisticLockField	GCRecord1	16315-38182\Administrator		-1	-1	0		0	
