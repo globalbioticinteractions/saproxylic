@@ -1,4 +1,4 @@
-sourceInteractionId	sourceInteractionLabel	targetInteractionId	targetInteractionId
+sourceInteractionId	sourceInteractionLabel	targetInteractionId	targetInteractionLabel
 {4945CCF6-CF7B-4907-8B9E-130626251CC5}	parasite	http://purl.obolibrary.org/obo/RO_0002444	parasiteOf
 {9ADC7A6C-296E-43FB-BD9D-132359C5B8C6}	occurs as scavenger	http://purl.obolibrary.org/obo/RO_0002470	eats
 {34250A09-C10C-4697-9BA9-1385DD71C096}	nutrition source	http://purl.obolibrary.org/obo/RO_0002470	eats
