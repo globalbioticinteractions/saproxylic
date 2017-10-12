@@ -18,4 +18,4 @@ Link provided by Dag Endresen.
  # Citation
 Stokland, J.; Dahlberg, A.; Meyke, E.; Schigel, D.; Siitonen, J. (2006) The Nordic saproxylic database - a comprehensive overview of the biological diversity in dead wood. 1st European Congress of Conservation Biology - "Diversity for Europe". August 2006, Hungary. Book of Abstracts. Society of Conservation Biology (USA) & Blackwell Publishing (UK) p. 159 .
 
- 
+To be included in https://globalbioticinteractions.org . 
