@@ -3,6 +3,8 @@
 A comprehensive overview of the biological diversity in dead wood, https://jukuri.luke.fi/handle/10024/513946 
 https://www.researchgate.net/publication/285527932_The_saproxylic_database_An_emerging_overview_of_the_biological_diversity_in_dead_wood . 
 
+[![Build Status](https://travis-ci.org/globalbioticinteractions/saproxylic.svg?branch=v0.1.0)](https://travis-ci.org/globalbioticinteractions/saproxylic) [![DOI](https://zenodo.org/badge/1009612.svg)](https://zenodo.org/badge/latestdoi/1009612) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/saproxylic)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/saproxylic) 
+
 # Files
 Accessed at https://app.box.com/s/dfx2tlw7aeve6ahqyzfuk3kmbiy0sb30/folder/16959150192 on 2017-10-05. 
 Link provided by Dag Endresen.
