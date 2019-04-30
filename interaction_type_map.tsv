@@ -1,7 +1,7 @@
 sourceInteractionId	sourceInteractionLabel	targetInteractionId	targetInteractionLabel
 {4945CCF6-CF7B-4907-8B9E-130626251CC5}	parasite	http://purl.obolibrary.org/obo/RO_0002444	parasiteOf
 {9ADC7A6C-296E-43FB-BD9D-132359C5B8C6}	occurs as scavenger	http://purl.obolibrary.org/obo/RO_0002470	eats
-{34250A09-C10C-4697-9BA9-1385DD71C096}	nutrition source	http://purl.obolibrary.org/obo/RO_0002470	eats
+{34250A09-C10C-4697-9BA9-1385DD71C096}	nutrition source	http://purl.obolibrary.org/obo/RO_0002471	eatenBy
 {F67E5D97-887B-41D3-9758-257F33767101}	parasitized by	http://purl.obolibrary.org/obo/RO_0002445	hasParasite
 {69F47164-2DEF-49CB-90FE-271CEA4A288F}	occurs as omnivore	http://purl.obolibrary.org/obo/RO_0002470	eats
 {CFE2FACA-FA2A-43DB-AA92-2BD1332AEC60}	dispersed by	http://eol.org/schema/terms/HasDispersalVector	hasDispersalVector
